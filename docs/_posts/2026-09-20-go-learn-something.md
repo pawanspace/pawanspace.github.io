@@ -11,7 +11,7 @@ I believe AI is one of the biggest changes to happen to the software industry, a
 
 Instead I would like to talk about learning.
 
-I feel one of the negative impacts AI has had on the software industry is that people have stopped learning about everything else. People just don't want to talk about anything other than AI, part of it is FOMO, and I am a member of FOBI (Fear of being involved) so I get that.
+I feel one of the negative impacts AI has had on the software industry is that people have stopped learning about everything else. People just don't want to talk about anything other than AI, part of it is FOMO, and I am a member of [FOBI](https://www.amazon.com/dp/B09W4DK44V?th=1&customizationToken=MC_Custom_1%233a9f6ddc-b006-4930-ae08-acadb0189bb7%23B07537HNMY&customId=B07537HNMY&ref_=ppx_hzsearch_conn_dt_b_fed_configurable_asin_2&psc=1) (Fear of being involved) so I get that.
 
 But even in AI, people just learn about which new model is available, which new code generation tool is out, or some new markdown file they need to create, because hey why not, it's [Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04). Just follow whatever is trending so we don't miss out on the bullshitters of the AI world. People don't read what any of the actual AI researchers are posting, not the Anthropic research blog, not anything else. They are instead reading LinkedIn posts about how this one markdown file changed their life.
 
@@ -31,7 +31,7 @@ Sign up for [Casey's Computer Enhance](https://www.computerenhance.com) and lear
 
 Even in the field of AI, go read [Marc Brooker's blog](https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html). Go read [Silvia De Toffoli and Eamon Duede's piece](https://terrytao.wordpress.com/2026/09/12/after-math/). Read [Kiro's frontier engineering topics](https://kiro.dev/topics/frontier-engineering/) and [this deep spec analysis](https://kiro.dev/blog/deep-spec-analysis/).
 
-This is the stuff to read, not which new tool is in the market, or which markdown file is more helpful, `agents.md` or `claude.md`. I have blocked keywords like "it's over for programmers", "ads industry is done", "actors are finished", all that doomer bullshit.
+This is the stuff to read, not which new tool is in the market, or which markdown file is more helpful, `agents.md` or `claude.md`. Block keywords like "it's over for programmers", "ads industry is done", "actors are finished", all that doomer bullshit.
 
 We don't know what's ahead. But we didn't know that in the past either. We have no reason to stop learning.
 
