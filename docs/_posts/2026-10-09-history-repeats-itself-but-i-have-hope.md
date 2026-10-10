@@ -3,6 +3,7 @@ layout: post
 title: "History Repeats Itself, But I Have Hope"
 date: 2026-10-09 16:58:00 -0700
 categories: engineering ai complexity
+image: /images/ai_complexity_curve.jpg
 ---
 
 Take a look at this graph:
