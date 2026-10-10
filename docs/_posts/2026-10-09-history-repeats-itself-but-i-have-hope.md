@@ -73,7 +73,7 @@ When you actually sit down, clean your data, and write clear requirements, you d
 
 The only real difference this time is speed.
 
-It took thirty years for a few of us to see through enterprise patterns. It took years of JavaScript churn to realize that we did not need so many build tools to show a web page. Both times, we moved slowly and lost years of work.
+It took a couple of decades for a few of us to see through enterprise patterns. It took years of JavaScript churn to realize that we did not need so many build tools to show a web page. Both times, we moved slowly and lost years of work.
 
 AI moves so much faster. The hype burns hot and quick.
 
@@ -87,4 +87,4 @@ Instead of blaming the model when bad prompts give bad results, I hope we take o
 
 And instead of obsessing over fancy tools, I hope we respect the data.
 
-It took thirty years of pain for a few of us to learn that simple, boring code wins. My hope is that this time, it does not take another generation to realize it. The answer was always right in front of us: clean data, clear requirements, and keeping it simple.
+It took a couple of decades of pain for a few of us to learn that simple, boring code wins. My hope is that this time, it does not take another generation to realize it. The answer was always right in front of us: clean data, clear requirements, and keeping it simple.
